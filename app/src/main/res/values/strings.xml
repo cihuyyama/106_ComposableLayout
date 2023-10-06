@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">composeb</string>
+    <string name="greeting">Selamat Sore</string>
+    <string name="name">Kelas B</string>
+</resources>
